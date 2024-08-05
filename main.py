@@ -15,3 +15,8 @@ with col2:
     I will add more information about myself in the future.
     """
     st.info(content)
+
+message = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(message)
